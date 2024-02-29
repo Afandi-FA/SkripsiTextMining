@@ -13,6 +13,6 @@ abstrakAsli  text
 
 4. jika hendak mengubah dataset, salin file dataset.csv, lalu ubah sesuai dengan data yang hendak dimasukkan, pengunggahan dataset dengan cara satu persatu juga diizinkan didalam sistem.
 
-separate/pemisah yang dipakai adalah '~'
+separator/pemisah yang dipakai adalah '~'
 
-jika ada yang hendak ditanyakan silahkan ke 083172134512 atau afandiahmed24@gmail.com
+jika ada yang hendak ditanyakan silahkan ke 085259434228 atau afandiahmed24@gmail.com
